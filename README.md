@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">As a full-stack developer, I have 2.6+ years of experience in front-end and back-end development.</h4>
+<h4 align="left">As a full-stack developer, I have 2+ years of experience in front-end and back-end development.</h4>
 
 ###
 
@@ -41,12 +41,6 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="50" alt="graphql logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" alt="redux logo"  />
 </div>
